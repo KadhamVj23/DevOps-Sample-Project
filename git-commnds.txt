@@ -1,0 +1,9 @@
+git init
+git status
+git add testing.py
+git status
+git commit -m "This is my 1st version of app"
+git status
+rm testing.py
+git status
+git restore testing.py
