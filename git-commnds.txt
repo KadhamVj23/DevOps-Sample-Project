@@ -3,7 +3,13 @@ git status
 git add testing.py
 git status
 git commit -m "This is my 1st version of app"
-git status
 rm testing.py
 git status
 git restore testing.py
+git status
+git add git-commnds.txt
+git commit -m "This is git commands text file"
+git remote add origin https://github.com/KadhamVj23/DevOps-Sample-Project.git
+git remote set-url origin https://YOURPATID@github.com/KadhamVj23/DevOps-Sample-Project.git 
+git remote -v
+git push origin master
