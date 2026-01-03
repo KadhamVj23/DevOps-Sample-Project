@@ -13,3 +13,4 @@ git remote add origin https://github.com/KadhamVj23/DevOps-Sample-Project.git
 git remote set-url origin https://YOURPATID@github.com/KadhamVj23/DevOps-Sample-Project.git 
 git remote -v
 git push origin master
+git pull origin master ---> Use this to pull the chnages made you made from github to reflect in your local machine.
