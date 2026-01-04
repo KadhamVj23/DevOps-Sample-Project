@@ -4,7 +4,7 @@ def myFun():
 
     a = 6
 
-    return a
+    return a 
 
 
 myFun()
